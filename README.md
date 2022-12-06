@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge"/>
 </div>
 
-------
+
 
 <h1 align="center">Python libraries:</h1> 
 
@@ -47,7 +47,16 @@
 </div>
 
 
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Badge"/>
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Badge"/>
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"/>
+</div>
 
-------
+---
+<div id="badges" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact" alt="MyStats"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact)](https://github.com/ShirshovDIM/github-readme-stats)
+[![Top Langs]()](https://github.com/ShirshovDIM/github-readme-stats)
