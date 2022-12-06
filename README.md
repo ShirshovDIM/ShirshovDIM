@@ -18,7 +18,7 @@
 ## About me:
 
 * 💻- Ocassional Python programmer
-* ⛩️- Have just begun my long and hard path of the samurai at ML and DS
+* ⛩️- Have just begun my thorny path of the samurai at ML and DS
 * 📈- Interested in Statistics, Econometrics and Stochastic Calculus
 * 🤖- Want to automatize almost everything
 
