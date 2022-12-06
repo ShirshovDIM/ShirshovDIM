@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="32" width="32" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact)](https://github.com/ShirshovDIM/github-readme-stats" />
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/ShirshovDIM) 
+
+<img height="32" width="32" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact)](https://github.com/ShirshovDIM/github-readme-stats)" />
+<img height="32" width="32" src="https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/ShirshovDIM)"/> 
