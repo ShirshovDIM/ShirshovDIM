@@ -1,7 +1,8 @@
 <h1 align="center">Greets, my name is <a href="https://daniilshat.ru/" target="_blank">Dima</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 <h3 align="center">Economic science student</h3>
+
+<h2 align="center">Contact me!</h2>
 
 <div id="badges" align="center">
   <a href="dimensionkernel@gmail.com">
@@ -25,8 +26,6 @@
 
 <h1 align="center">My stack:</h1> 
 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
@@ -34,8 +33,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge"/>
 </div>
-
-
 
 <h1 align="center">Python libraries:</h1> 
 
@@ -45,7 +42,6 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Badge"/>
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"/>
 </div>
-
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/>
@@ -58,5 +54,3 @@
 <div id="badges" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact" alt="MyStats"/>
 </div>
-
-[![Top Langs]()](https://github.com/ShirshovDIM/github-readme-stats)
