@@ -1,7 +1,7 @@
 <h1 align="center">Greets, my name is <a href="https://daniilshat.ru/" target="_blank">Dima</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Economic science student</h3>
 
 <div id="badges" align="center">
   <a href="dimensionkernel@gmail.com">
@@ -24,6 +24,14 @@
 ------
 
 <h1 align="center">My stack:</h1> 
+
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Watsapp Badge"/>
+</div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
