@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4 align = 'center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact)](https://github.com/ShirshovDIM/github-readme-stats)</h4>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact)](https://github.com/ShirshovDIM/github-readme-stats)
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/ShirshovDIM) 
