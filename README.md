@@ -22,8 +22,6 @@
 * 📈- Interested in Statistics, Econometrics and Stochastic Calculus
 * 🤖- Want to automatize almost everything
 
-------
-
 <h1 align="center">My stack:</h1> 
 
 <div id="badges" align="center">
@@ -34,19 +32,18 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge"/>
 </div>
 
-
-------
-
 <h1 align="center">Python libraries:</h1> 
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Badge"/>
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Badge"/>
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"/>
+</div>
 
 ------
 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=123123&show_icons=true&include_all_commits=true)](https://github.com/123123/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123123&layout=compact)](https://github.com/123123/github-readme-stats)
+<div id="badges" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShirshovDIM&show_icons=true&include_all_commits=true" alt="Stats Badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact" alt="Langs Badge"/>
+</div>
