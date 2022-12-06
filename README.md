@@ -2,6 +2,20 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+<div id="badges">
+  <a href="dimensionkernel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/DIMensionKER">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://wa.me/79131516612?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Watsapp Badge"/>
+  </a>
+</div>
+
+## About me:
+
 * 💻- Ocassional Python programmer
 * ⛩️- Have just begun my long and hard path of the samurai at ML and DS
 * 📈- Interested in Statistics, Econometrics and Stochastic Calculus
@@ -28,12 +42,6 @@
 
 ------
 
-
-## Hey 👋, This is 31312
-[![Gmail Badge](https://img.shields.io/badge/-3131-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:3131)](mailto:3131) 
-[![Linkedin Badge](https://img.shields.io/badge/-3131-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/3131/)](https://www.linkedin.com/in/3131/) [![Github Badge](https://img.shields.io/badge/-123123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/123123/)](https://www.github.com/123123/) [![Twitter Badge](https://img.shields.io/badge/-31313-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/31313/)](https://www.twitter.com/31313/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=32131/)](32131/) <p align='left'>3131</p><p align='left'> You can view my resume <a href='31313 ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=123123 alt=123123 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=123123&show_icons=true&include_all_commits=true)](https://github.com/123123/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123123&layout=compact)](https://github.com/123123/github-readme-stats)
