@@ -1,6 +1,7 @@
-<h1 align="center">Greets, my name is <a href="https://github.com/ShirshovDIM" target="_blank">Dima</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Economic science student at RANEPA</h3>
+Greets, my name is Dima
+https://github.com/blackcater/blackcater/raw/main/images/Hi.gif
+Economic science student at RANEPA
+---
 
 +💻- Ocassional Python programmer
 +⛩️- Have just begun my long and hard path of the samurai at ML and DS
