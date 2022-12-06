@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi, I'm <a href="https://github.com/ShirshovDIM" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Economic science student, and occasional python programmer </h3>
 
 <!--
 **ShirshovDIM/ShirshovDIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM)](https://github.com/ShirshovDIM/github-readme-stats)
+<h4 align = 'center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact)](https://github.com/ShirshovDIM/github-readme-stats)</h4>
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/ShirshovDIM) 
