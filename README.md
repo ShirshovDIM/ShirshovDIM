@@ -1,4 +1,4 @@
-<h1 align="center">Greets, my name is <a href="https://daniilshat.ru/" target="_blank">Dima</a> 
+<h1 align="center">Greets, my name is <a href="https://github.com/ShirshovDIM" target="_blank">Dima</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">Economic Science student</h3>
@@ -46,5 +46,5 @@
 
 <div id="badges" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShirshovDIM&show_icons=true&include_all_commits=true" alt="Stats Badge"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact" alt="Langs Badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact" alt="Langs Badge" height="256"/>
 </div>
