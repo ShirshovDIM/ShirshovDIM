@@ -18,9 +18,9 @@
 
 ## About me:
 
-* 💻- Ocassional Python programmer
-* ⛩️- Have just begun my thorny path of the samurai at ML and DS
-* 📈- Interested in Statistics, Econometrics and Stochastic Calculus
+* 💻- Professional Python/Scala developer
+* ⛩️- Try to follow examples of best in DE and DevOps
+* 📈- Improve my expertise in backend dev. of microservices
 * 🤖- Want to automatize almost everything
 
 <h1 align="center">My stack:</h1> 
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge"/>
 </div>
