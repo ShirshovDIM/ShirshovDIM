@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
 </div>
 
-<h1 align="center">Other stuff I am getting in to (Apache and other):</h1> 
+<h1 align="center">DevOps and other (Apache and other):</h1> 
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven Badge"/>
