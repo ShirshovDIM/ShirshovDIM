@@ -1,7 +1,7 @@
 <h1 align="center">Greets, my name is <a href="https://github.com/ShirshovDIM" target="_blank">Dima</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Economic Science student</h3>
+<h3 align="center">Professional Python/Scala developer & Economic Science student</h3>
 
 <h2 align="center">Contact me!</h2>
 <div id="badges" align="center">
