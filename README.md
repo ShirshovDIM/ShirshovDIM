@@ -3,7 +3,7 @@
 
 <h3 align="center">Professional Python/Scala developer & Economic Science student</h3>
 
-<h2 align="center">Contact me!</h2>
+<h2 align="center">Contact me if you want to see presonal interesting projects or contribute to them!</h2>
 <div id="badges" align="center">
   <a href="mailto:dimensionkernel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
