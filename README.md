@@ -3,7 +3,7 @@
 
 <h3 align="center">Professional Python/Scala developer & Economic Science student</h3>
 
-<h2 align="center">Contact me if you want to see my projects or contribute to them (private repos)!</h2>
+<h2 align="center">Contact me</h2>
 <div id="badges" align="center">
   <a href="mailto:dimensionkernel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -19,28 +19,28 @@
 ## About me:
 
 * 💻- Professional Python/Scala developer
-* ⛩️- Try to follow examples of best in DE and DevOps
-* 📈- Improve my expertise in backend dev. of microservices
+* ⛩️- Try to follow examples of best in DS and DE
+* 📈- Improve my expertise in Macnine Learning and MLOps
 * 🤖- Want to automatize almost everything
 
-<h1 align="center">Technologies in my stack:</h1> 
+<h1 align="center">Programmin languages and Technologies in my stack:</h1> 
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala Badge">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX Badge">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka Badge"/>
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive Badge"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo Badge"/>
 </div>
 
-<h1 align="center">Frameworks in my stack (Hadoop and other):</h1> 
+<h1 align="center">Frameworks in my stack:</h1> 
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Spark Badge"/>
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
+  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white" alt="Flink Badge"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow Badge"/>
+  
+  
 </div>
 
 <h1 align="center">DevOps and other (Apache and other):</h1> 
