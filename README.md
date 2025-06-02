@@ -23,7 +23,7 @@
 * 📈- Improve my expertise in Macnine Learning and MLOps
 * 🤖- Want to automatize almost everything
 
-<h1 align="center">Programmin languages and Technologies in my stack:</h1> 
+<h1 align="center">Programming languages and Technologies in my stack:</h1> 
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
