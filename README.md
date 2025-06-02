@@ -43,7 +43,7 @@
   
 </div>
 
-<h1 align="center">DevOps and other (Apache and other):</h1> 
+<h1 align="center">DevOps etc:</h1> 
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven Badge"/>
