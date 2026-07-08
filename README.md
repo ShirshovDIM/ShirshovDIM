@@ -1,62 +1,57 @@
-<h1 align="center">Greets, my name is <a href="https://github.com/ShirshovDIM" target="_blank">Dima</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
 
-<h3 align="center">Professional Python/Scala developer & Economic Science student</h3>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=1200&color=C9A227&center=true&vCenter=true&width=600&lines=Dmitry+Shirshov;Senior+Data+Engineer+%40+Alfa-Bank;Semantic+Layer+%26+AI-Agent+Builder;LLM+%2F+RAG+%2F+Agentic+Systems" alt="Typing SVG" />
 
-<h2 align="center">Contact me</h2>
-<div id="badges" align="center">
-  <a href="mailto:dimensionkernel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://t.me/DIMensionKER">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://wa.me/79131516612?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Watsapp Badge"/>
-  </a>
+<sub>Moscow · Remote &nbsp;|&nbsp; MSc AI candidate @ ITMO</sub>
+
+<br/><br/>
+
+<a href="mailto:dimensionkernel@gmail.com"><img src="https://img.shields.io/badge/Gmail-C9A227?style=flat-square&logo=gmail&logoColor=0B0F14" alt="Gmail"/></a>
+<a href="https://t.me/DIMensionKER"><img src="https://img.shields.io/badge/Telegram-6F9686?style=flat-square&logo=telegram&logoColor=0B0F14" alt="Telegram"/></a>
+<a href="https://wa.me/79131516612?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/WhatsApp-C9A227?style=flat-square&logo=whatsapp&logoColor=0B0F14" alt="WhatsApp"/></a>
+<a href="https://www.linkedin.com/in/dmitry-shirshov-13832a395/"><img src="https://img.shields.io/badge/LinkedIn-6F9686?style=flat-square&logo=linkedin&logoColor=0B0F14" alt="LinkedIn"/></a>
+
 </div>
 
-## About me:
+<br/>
 
-* 💻- Professional Python/Scala developer
-* ⛩️- Try to follow examples of best in DS and DE
-* 📈- Improve my expertise in Macnine Learning and MLOps
-* 🤖- Want to automatize almost everything
+### About
 
-<h1 align="center">Programming languages and Technologies in my stack:</h1> 
+I design, build and own production data and AI systems — from high-throughput streaming pipelines to LLM-powered agentic automation. Currently a **Senior Data Engineer** at **Alfa-Bank**, leading semantic layer and AI-agent infrastructure used internally across the bank. Pursuing an **MSc in Artificial Intelligence** at ITMO University, focused on multimodal LLMs and agentic systems.
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala Badge">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka Badge"/>
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop Badge"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo Badge"/>
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white" alt="Click Badge"/>
+
+• Own the semantic layer & unified data gateway powering internal AI agents across multiple business domains<br/>
+• Built agentic systems for anomaly detection, DWH migration and automated code review — cutting incident response and delivery times by 75-90%<br/>
+• Work daily with batch and streaming pipelines up to ~1 TB/day<br/>
+• Co-building **QuadForge** — an AI-powered 3D mesh retopology engine (LLM + VLM + multimodal RAG + MCP)
+
+### Stack
+
+**Core**
+<br/>
+<img src="https://img.shields.io/badge/Python-C9A227?style=flat-square&logo=python&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/SQL-C9A227?style=flat-square"/> <img src="https://img.shields.io/badge/Scala-C9A227?style=flat-square&logo=scala&logoColor=0B0F14"/>
+
+**Data & Streaming**
+<br/>
+<img src="https://img.shields.io/badge/Apache%20Spark-6F9686?style=flat-square&logo=apachespark&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/Apache%20Kafka-6F9686?style=flat-square&logo=apachekafka&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/Apache%20Flink-6F9686?style=flat-square&logo=apacheflink&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/Apache%20Airflow-6F9686?style=flat-square&logo=apacheairflow&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/ClickHouse-6F9686?style=flat-square&logo=clickhouse&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/Oracle-6F9686?style=flat-square&logo=oracle&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/S3%2FIceberg-6F9686?style=flat-square&logo=amazons3&logoColor=0B0F14"/>
+
+**AI / LLM**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-C9A227?style=flat-square"/> <img src="https://img.shields.io/badge/LangGraph-C9A227?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-C9A227?style=flat-square&logo=openai&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/Anthropic%20SDK-C9A227?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-C9A227?style=flat-square"/>
+
+**Infra**
+<br/>
+<img src="https://img.shields.io/badge/Docker-6F9686?style=flat-square&logo=docker&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/Kubernetes-6F9686?style=flat-square&logo=kubernetes&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/gRPC-6F9686?style=flat-square&logo=grpc&logoColor=0B0F14"/> <img src="https://img.shields.io/badge/REST-6F9686?style=flat-square"/>
+
+### GitHub stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ShirshovDIM&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0F14&title_color=C9A227&icon_color=6F9686&text_color=E5E5E5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact&hide_border=true&bg_color=0B0F14&title_color=C9A227&text_color=E5E5E5" height="165"/>
 </div>
 
-<h1 align="center">Frameworks in my stack:</h1> 
+<br/>
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Spark Badge"/>
-  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white" alt="Flink Badge"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow Badge"/>
-  
-  
-</div>
-
-<h1 align="center">DevOps etc:</h1> 
-
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven Badge"/>
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kuber Badge"/>
-</div>
-
-------
-
-<div id="badges" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShirshovDIM&show_icons=true&include_all_commits=true" alt="Stats Badge"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshovDIM&layout=compact" alt="Langs Badge" height="194"/>
-</div>
+<p align="center">
+<sub>Open to Senior / Lead Data Engineer roles — remote or hybrid</sub>
+</p>
