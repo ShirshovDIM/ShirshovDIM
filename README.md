@@ -9,7 +9,7 @@
 <a href="mailto:dimensionkernel@gmail.com"><img src="https://img.shields.io/badge/Gmail-FCE38A?style=flat-square&logo=gmail&logoColor=0B0F14" alt="Gmail"/></a>
 <a href="https://t.me/DIMensionKER"><img src="https://img.shields.io/badge/Telegram-FCE38A?style=flat-square&logo=telegram&logoColor=0B0F14" alt="Telegram"/></a>
 <a href="https://wa.me/79131516612?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/WhatsApp-FCE38A?style=flat-square&logo=whatsapp&logoColor=0B0F14" alt="WhatsApp"/></a>
-<a href="https://www.linkedin.com/in/dmitry-shirshov-13832a395/"><img src="https://img.shields.io/badge/LinkedIn-FCE38A?style=flat-square&logo=linkedin&logoColor=0B0F14" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/dimensionkernel/"><img src="https://img.shields.io/badge/LinkedIn-FCE38A?style=flat-square&logo=linkedin&logoColor=0B0F14" alt="LinkedIn"/></a>
 
 </div>
 
