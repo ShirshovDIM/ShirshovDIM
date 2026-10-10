@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=1200&color=C9A227&center=true&vCenter=true&width=600&lines=Dmitry+Shirshov;Lead+AI+Engineer+%40+Alfa-Bank;Semantic+Layer+%26+AI-Agent+Builder;LLM+%2F+RAG+%2F+Agentic+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=1200&color=C9A227&center=true&vCenter=true&width=600&lines=Dmitry+Shirshov;Lead+AI+Engineer+%40+Semantic+Layer+%26+AI-Agent+Builder;LLM+%2F+RAG+%2F+Agentic+Systems" alt="Typing SVG" />
 
-<sub>Moscow · Remote &nbsp;|&nbsp; MSc AI candidate @ ITMO</sub>
+<sub>Remote &nbsp;|&nbsp; MSc AI candidate @ ITMO</sub>
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 
 ### About
 
-I design, build and own production data and AI systems — from high-throughput streaming pipelines to LLM-powered agentic automation. Currently a **Lead AI Engineer** at **Alfa-Bank**, leading semantic layer and AI-agent infrastructure used internally across the bank. Pursuing an **MSc in Artificial Intelligence** at ITMO University, focused on multimodal LLMs and agentic systems.
+I design, build and own production data and AI systems — from high-throughput streaming pipelines to LLM-powered agentic automation. Currently a **Lead AI Engineer**, leading semantic layer and AI-agent infrastructure used internally across the bank. Pursuing an **MSc in Artificial Intelligence** at ITMO University, focused on multimodal LLMs and agentic systems.
 
 
 • Own the semantic layer & unified data gateway powering internal AI agents across multiple business domains<br/>
